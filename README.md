@@ -31,6 +31,21 @@ To build a web site that shows data from a database, you will need:
 - To use SQL to get the data you want
 - To use HTML / CSS to style the page
 
+### DATABASE
+> Database is a collection of interrelated data which helps in the efficient retrieval, insertion, and deletion of data from the database and organizes the data in the form of tables, views, schemas, reports, etc. For Example, a university database organizes the data about students, faculty, admin staff, etc. which helps in the efficient retrieval, insertion, and deletion of data from it.
+
+
+### Database Management System
+> The software which is used to manage databases is called Database Management System (DBMS). For Example, MySQL, Oracle, etc. are popular commercial DBMS used in different applications.
+
+> Database Management System or DBMS in short refers to the technology of storing and retrieving users data with utmost efficiency along with appropriate security measures.
+ 
+#### DBMS allows users the following tasks: 
+- Data Definition: It helps in the creation, modification, and removal of definitions that define the organization of data in the database. 
+- Data Updation: It helps in the insertion, modification, and deletion of the actual data in the database. 
+- Data Retrieval: It helps in the retrieval of data from the database which can be used by applications for various purposes. 
+- User Administration: It helps in registering and monitoring users, enforcing data security, monitoring performance, maintaining data integrity, dealing with concurrency control, and recovering information corrupted by unexpected failure.
+
 ### RDBMS
 > RDBMS stands for Relational Database Management System. <br>
 RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access. <br>
