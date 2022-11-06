@@ -1,4 +1,4 @@
-# SQL
+# SQL Queries
 
 
 https://popsql.com/queries/-NG6w-Xd4KtIm1PtAehi/functions-in-sql?access_token=0f5bea89833be8c16d9d3f95207e8f5a
