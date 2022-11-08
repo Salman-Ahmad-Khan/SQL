@@ -127,3 +127,27 @@ Semicolon is the standard way to separate each SQL statement in database systems
 - [basic-queries](https://popsql.com/queries/-NG5QMznetiuCUcyj9v4/basic-queriessql?run_id=24490880)
 
 - [sample-queries](https://popsql.com/queries/-NG28GVLBu1rBKhqdbGI/sample-queries?run_id=24490967)
+
+- [wild-cards](https://popsql.com/queries/-NGBYeSLv6nDV4PxpwUY/wild-cards?access_token=aaedcac27c9633da4b635537d1f9cf7e)
+
+- [join](https://popsql.com/queries/-NGBsHlSTy-mdOe0-2am/join?access_token=676c6e69cab515b65759f4e106e9d766)
+
+- [union](https://popsql.com/queries/-NGBfB9WY6B2nKWfUnzY/union?access_token=0e14c9f8fa7c24be14ab6865242709e6)
+
+- [create-databases(new)](https://popsql.com/queries/-NGFMcQFaCUO9NMsORNd/create-databasesnew?access_token=5b268729bc2554a40d5bbd8b0637b476)
+
+- [create-db-hr](https://popsql.com/queries/-NGFPr1l-KObbcq7RJyl/create-db-hr?access_token=746746773a2b9b48dbe45e754196e75b)
+
+- [create-db-invoicing](https://popsql.com/queries/-NGFQVlnwPiCyIit-NmV/create-db-invoicing?access_token=451b2635beace063f69d86a6e2ce7908)
+
+- [create-db-store](https://popsql.com/queries/-NGFQqmrztmPudgonv8c/create-db-store?access_token=922581bfc433a871946881f0eefa2f9d)
+
+- [create-db-inventory](https://popsql.com/queries/-NGFQuh9WA4pvpcp7aRf/create-db-inventory?access_token=a216f44a46dcd8b8eb6c2cd4db5e1967)
+
+- [nested-queries](https://popsql.com/queries/-NGFYECFxER9Ofn6LHsj/nested-queries?access_token=c39407efc608bdfc0874c8a885426ff1)
+
+- [on-delete](https://popsql.com/queries/-NGFmhBEHegCYp7ExM7i/on-delete?access_token=a687481155731d7afe9645b33862f68e)
+
+- [triggers](https://popsql.com/queries/-NGFrqI2kOsckr8G21v6/triggers?access_token=82a85c527f330e026935529ff673d09d)
+
+
